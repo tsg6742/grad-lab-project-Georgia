@@ -1,7 +1,7 @@
 # grad-lab-project-Georgia
 IMGS-609 Project Repo
 
-HydroLight Simulations for Chlorophyll-a Retrieval from Inland Waters - Therese Georgia
+**HydroLight Simulations for Chlorophyll-a Retrieval from Inland Waters - Therese Georgia**
 
 For my Qualifying Exam project, I am developing algorithms for chlorophyll retrieval from inland waters based on Landsat 10 capabilities. I plan on using HydroLight (through Python) to simulate various in-water constituent levels to train and test my algorithm on (before moving to non-simulated data after the QE process). 
 
@@ -11,6 +11,14 @@ For the Grad Lab project, I want to run the HydroLight simulations with the vary
 - [ ] Run simulations for four different constituent levels
 - [ ] Create plots of simulation outputs
 
-Next Steps:
+**Next Steps:**
 
 One goal for this week is to finish updating the Python code from EcoLight to HydroLight so that I can run the simulations.
+
+**Reflection**
+
+A commit captures the state of my code at different times, saving the changes (along with showing the changes) along the way. 
+
+Using a branch instead of editing main directly allows for main to stay stable and bug-free, while the branches can be used to isolate and de-bug certain changes. 
+
+An issue tracks a problem or idea, while a pull request proposes actual code to potentially fix the problem and merge code changes. 
