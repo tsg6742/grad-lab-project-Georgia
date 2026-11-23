@@ -10,3 +10,7 @@ For the Grad Lab project, I want to run the HydroLight simulations with the vary
 - [ ] Convert Python code from EcoLight capabilities to HydroLight capabilities
 - [ ] Run simulations for four different constituent levels
 - [ ] Create plots of simulation outputs
+
+Next Steps:
+
+One goal for this week is to finish updating the Python code from EcoLight to HydroLight so that I can run the simulations.
